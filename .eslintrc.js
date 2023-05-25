@@ -6,7 +6,8 @@ module.exports = {
   extends: [
     'plugin:react/recommended',
     'airbnb',
-    'airbnb-typescript'
+    'airbnb-typescript',
+    'plugin:react-hooks/recommended'
   ],
   overrides: [
   ],
@@ -19,6 +20,8 @@ module.exports = {
     'react'
   ],
   rules: {
+    "@typescript-eslint/no-explicit-any": "error",
+    "react/react-in-jsx-scope": "off"
   },
   ignorePatterns: ['.eslintrc.js']
 }
