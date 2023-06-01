@@ -10,6 +10,8 @@
     "@types/node": "^16.7.13",
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
+    "concurrently": "^8.1.0",
+    "express": "^4.18.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.11.2",
@@ -22,7 +24,14 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "lint": "yarn eslint ."
+    "lint": "yarn eslint .",
+    "build-server": "tsc --project tsconfig.server.json",
+    "run-server": "node dist/main.js",
+    "start-server": "yarn build-server && yarn run-server",
+    "build-server-watch": "yarn build-server -w",
+    "run-server-watch": "nodemon dist/main.js",
+    "start-server-watch": "concurrently npm:build-server-watch npm:run-server-watch",
+    "dev": "concurrently npm:start npm:start-server-watch"
   },
   "eslintConfig": {
     "extends": [
@@ -51,6 +60,7 @@
     "eslint-plugin-n": "^15.0.0",
     "eslint-plugin-promise": "^6.0.0",
     "eslint-plugin-react": "^7.32.2",
-    "eslint-plugin-react-hooks": "^4.6.0"
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "nodemon": "^2.0.22"
   }
 }
