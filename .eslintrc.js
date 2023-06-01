@@ -23,5 +23,5 @@ module.exports = {
     "@typescript-eslint/no-explicit-any": "error",
     "react/react-in-jsx-scope": "off"
   },
-  ignorePatterns: ['.eslintrc.js']
+  ignorePatterns: ['.eslintrc.js','dist/','build/']
 }
