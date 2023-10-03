@@ -19,7 +19,7 @@ export default class DataController implements Controller {
 
   async getData(_request: Request, response: Response<string>) {
     try {
-      const test = this.openAiApi.getResponse();
+      const test = await this.openAiApi.getResponse();
       return response.status(200).json(test);
     } catch (error: unknown) {
       if (notFound(error)) {
