@@ -14,7 +14,7 @@ export default class DataController implements Controller {
 
   getRoutes() {
     const router = express.Router();
-    return router.get('/api/data/household', this.getHouseholdData);
+    router.get('/api/data/household', this.getHouseholdData);
     return router.get('/api/data/demographic', this.getDemographicData);
   }
 

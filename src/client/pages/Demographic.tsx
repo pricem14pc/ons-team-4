@@ -3,7 +3,7 @@ import AsyncContent from '../components/AsyncContent';
 import { useAsyncRequest } from '../hooks/useAsyncRequest';
 import { getDemographicData } from '../api/NodeApi';
 
-export default function DemographicData() {
+export default function Demographic() {
   const infoPanelMessage = 'OPEN AI, If inflation rates rise will household expenditure increase or descrease for under 25 year olds?';
 
   // TODO: maybe filter surveys returned here - pass user details to node and bring back full list or filtered

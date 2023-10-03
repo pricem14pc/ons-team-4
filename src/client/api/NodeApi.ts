@@ -15,7 +15,7 @@ async function getDataFromNode<T>(url: string, notFoundError: string): Promise<T
 }
 
 export async function getHouseholdData(): Promise<string> {
-  return getDataFromNode('/api/data/husehold', 'Unable to find data, please contact your data administrator');
+  return getDataFromNode('/api/data/household', 'Unable to find data, please contact your data administrator');
 }
 export async function getDemographicData(): Promise<string> {
   return getDataFromNode('/api/data/demographic', 'Unable to find data, please contact your data administrator');
