@@ -1,0 +1,2382 @@
+[
+ {
+   "Title": "CDID",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "L55O"
+ },
+ {
+   "Title": "Source dataset ID",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "MM23"
+ },
+ {
+   "Title": "PreUnit",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": ""
+ },
+ {
+   "Title": "Unit",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "%"
+ },
+ {
+   "Title": "Release date",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "20-09-2023"
+ },
+ {
+   "Title": "Next release",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "18 October 2023"
+ },
+ {
+   "Title": "Important notes",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": ""
+ },
+ {
+   "Title": "1989",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "5.7"
+ },
+ {
+   "Title": "1990",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "8.0"
+ },
+ {
+   "Title": "1991",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "7.5"
+ },
+ {
+   "Title": "1992",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "4.6"
+ },
+ {
+   "Title": "1993",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.6"
+ },
+ {
+   "Title": "1994",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.2"
+ },
+ {
+   "Title": "1995",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.7"
+ },
+ {
+   "Title": "1996",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.9"
+ },
+ {
+   "Title": "1997",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.2"
+ },
+ {
+   "Title": "1998",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.8"
+ },
+ {
+   "Title": "1999",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.7"
+ },
+ {
+   "Title": "2000",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.2"
+ },
+ {
+   "Title": "2001",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.6"
+ },
+ {
+   "Title": "2002",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.5"
+ },
+ {
+   "Title": "2003",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.4"
+ },
+ {
+   "Title": "2004",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.4"
+ },
+ {
+   "Title": "2005",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.1"
+ },
+ {
+   "Title": "2006",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.5"
+ },
+ {
+   "Title": "2007",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.4"
+ },
+ {
+   "Title": "2008",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.5"
+ },
+ {
+   "Title": "2009",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.0"
+ },
+ {
+   "Title": "2010",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.5"
+ },
+ {
+   "Title": "2011",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.8"
+ },
+ {
+   "Title": "2012",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.6"
+ },
+ {
+   "Title": "2013",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.3"
+ },
+ {
+   "Title": "2014",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.5"
+ },
+ {
+   "Title": "2015",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.4"
+ },
+ {
+   "Title": "2016",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.0"
+ },
+ {
+   "Title": "2017",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.6"
+ },
+ {
+   "Title": "2018",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.3"
+ },
+ {
+   "Title": "2019",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.7"
+ },
+ {
+   "Title": "2020",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.0"
+ },
+ {
+   "Title": "2021",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.5"
+ },
+ {
+   "Title": "2022",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "7.9"
+ },
+ {
+   "Title": "1989 Q1",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "5.8"
+ },
+ {
+   "Title": "1989 Q2",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "5.8"
+ },
+ {
+   "Title": "1989 Q3",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "5.6"
+ },
+ {
+   "Title": "1989 Q4",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "5.7"
+ },
+ {
+   "Title": "1990 Q1",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "6.1"
+ },
+ {
+   "Title": "1990 Q2",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "8.0"
+ },
+ {
+   "Title": "1990 Q3",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "8.8"
+ },
+ {
+   "Title": "1990 Q4",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "9.2"
+ },
+ {
+   "Title": "1991 Q1",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "8.4"
+ },
+ {
+   "Title": "1991 Q2",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "7.7"
+ },
+ {
+   "Title": "1991 Q3",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "7.3"
+ },
+ {
+   "Title": "1991 Q4",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "6.5"
+ },
+ {
+   "Title": "1992 Q1",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "6.3"
+ },
+ {
+   "Title": "1992 Q2",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "5.0"
+ },
+ {
+   "Title": "1992 Q3",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "4.0"
+ },
+ {
+   "Title": "1992 Q4",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.3"
+ },
+ {
+   "Title": "1993 Q1",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.1"
+ },
+ {
+   "Title": "1993 Q2",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.3"
+ },
+ {
+   "Title": "1993 Q3",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.5"
+ },
+ {
+   "Title": "1993 Q4",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.2"
+ },
+ {
+   "Title": "1994 Q1",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.4"
+ },
+ {
+   "Title": "1994 Q2",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.4"
+ },
+ {
+   "Title": "1994 Q3",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.1"
+ },
+ {
+   "Title": "1994 Q4",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.1"
+ },
+ {
+   "Title": "1995 Q1",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.4"
+ },
+ {
+   "Title": "1995 Q2",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.5"
+ },
+ {
+   "Title": "1995 Q3",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.9"
+ },
+ {
+   "Title": "1995 Q4",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.0"
+ },
+ {
+   "Title": "1996 Q1",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.0"
+ },
+ {
+   "Title": "1996 Q2",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.8"
+ },
+ {
+   "Title": "1996 Q3",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.7"
+ },
+ {
+   "Title": "1996 Q4",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.9"
+ },
+ {
+   "Title": "1997 Q1",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.4"
+ },
+ {
+   "Title": "1997 Q2",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.1"
+ },
+ {
+   "Title": "1997 Q3",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.3"
+ },
+ {
+   "Title": "1997 Q4",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.1"
+ },
+ {
+   "Title": "1998 Q1",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.8"
+ },
+ {
+   "Title": "1998 Q2",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.0"
+ },
+ {
+   "Title": "1998 Q3",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.7"
+ },
+ {
+   "Title": "1998 Q4",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.7"
+ },
+ {
+   "Title": "1999 Q1",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.0"
+ },
+ {
+   "Title": "1999 Q2",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.8"
+ },
+ {
+   "Title": "1999 Q3",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.6"
+ },
+ {
+   "Title": "1999 Q4",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.5"
+ },
+ {
+   "Title": "2000 Q1",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.1"
+ },
+ {
+   "Title": "2000 Q2",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.0"
+ },
+ {
+   "Title": "2000 Q3",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.2"
+ },
+ {
+   "Title": "2000 Q4",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.4"
+ },
+ {
+   "Title": "2001 Q1",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.3"
+ },
+ {
+   "Title": "2001 Q2",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.8"
+ },
+ {
+   "Title": "2001 Q3",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.8"
+ },
+ {
+   "Title": "2001 Q4",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.4"
+ },
+ {
+   "Title": "2002 Q1",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.7"
+ },
+ {
+   "Title": "2002 Q2",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.3"
+ },
+ {
+   "Title": "2002 Q3",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.3"
+ },
+ {
+   "Title": "2002 Q4",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.6"
+ },
+ {
+   "Title": "2003 Q1",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.5"
+ },
+ {
+   "Title": "2003 Q2",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.3"
+ },
+ {
+   "Title": "2003 Q3",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.4"
+ },
+ {
+   "Title": "2003 Q4",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.3"
+ },
+ {
+   "Title": "2004 Q1",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.3"
+ },
+ {
+   "Title": "2004 Q2",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.3"
+ },
+ {
+   "Title": "2004 Q3",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.3"
+ },
+ {
+   "Title": "2004 Q4",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.5"
+ },
+ {
+   "Title": "2005 Q1",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.8"
+ },
+ {
+   "Title": "2005 Q2",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.9"
+ },
+ {
+   "Title": "2005 Q3",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.4"
+ },
+ {
+   "Title": "2005 Q4",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.2"
+ },
+ {
+   "Title": "2006 Q1",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.1"
+ },
+ {
+   "Title": "2006 Q2",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.4"
+ },
+ {
+   "Title": "2006 Q3",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.5"
+ },
+ {
+   "Title": "2006 Q4",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.7"
+ },
+ {
+   "Title": "2007 Q1",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.8"
+ },
+ {
+   "Title": "2007 Q2",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.6"
+ },
+ {
+   "Title": "2007 Q3",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.0"
+ },
+ {
+   "Title": "2007 Q4",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.3"
+ },
+ {
+   "Title": "2008 Q1",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.5"
+ },
+ {
+   "Title": "2008 Q2",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.3"
+ },
+ {
+   "Title": "2008 Q3",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "4.5"
+ },
+ {
+   "Title": "2008 Q4",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.7"
+ },
+ {
+   "Title": "2009 Q1",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.9"
+ },
+ {
+   "Title": "2009 Q2",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.0"
+ },
+ {
+   "Title": "2009 Q3",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.4"
+ },
+ {
+   "Title": "2009 Q4",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.6"
+ },
+ {
+   "Title": "2010 Q1",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.4"
+ },
+ {
+   "Title": "2010 Q2",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.5"
+ },
+ {
+   "Title": "2010 Q3",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.3"
+ },
+ {
+   "Title": "2010 Q4",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.7"
+ },
+ {
+   "Title": "2011 Q1",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.5"
+ },
+ {
+   "Title": "2011 Q2",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.8"
+ },
+ {
+   "Title": "2011 Q3",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "4.0"
+ },
+ {
+   "Title": "2011 Q4",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "4.0"
+ },
+ {
+   "Title": "2012 Q1",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.1"
+ },
+ {
+   "Title": "2012 Q2",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.5"
+ },
+ {
+   "Title": "2012 Q3",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.2"
+ },
+ {
+   "Title": "2012 Q4",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.4"
+ },
+ {
+   "Title": "2013 Q1",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.5"
+ },
+ {
+   "Title": "2013 Q2",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.4"
+ },
+ {
+   "Title": "2013 Q3",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.4"
+ },
+ {
+   "Title": "2013 Q4",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.9"
+ },
+ {
+   "Title": "2014 Q1",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.6"
+ },
+ {
+   "Title": "2014 Q2",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.6"
+ },
+ {
+   "Title": "2014 Q3",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.5"
+ },
+ {
+   "Title": "2014 Q4",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.1"
+ },
+ {
+   "Title": "2015 Q1",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.4"
+ },
+ {
+   "Title": "2015 Q2",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.3"
+ },
+ {
+   "Title": "2015 Q3",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.4"
+ },
+ {
+   "Title": "2015 Q4",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.4"
+ },
+ {
+   "Title": "2016 Q1",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.7"
+ },
+ {
+   "Title": "2016 Q2",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.7"
+ },
+ {
+   "Title": "2016 Q3",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.0"
+ },
+ {
+   "Title": "2016 Q4",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.5"
+ },
+ {
+   "Title": "2017 Q1",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.2"
+ },
+ {
+   "Title": "2017 Q2",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.6"
+ },
+ {
+   "Title": "2017 Q3",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.7"
+ },
+ {
+   "Title": "2017 Q4",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.8"
+ },
+ {
+   "Title": "2018 Q1",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.5"
+ },
+ {
+   "Title": "2018 Q2",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.2"
+ },
+ {
+   "Title": "2018 Q3",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.3"
+ },
+ {
+   "Title": "2018 Q4",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.1"
+ },
+ {
+   "Title": "2019 Q1",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.8"
+ },
+ {
+   "Title": "2019 Q2",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.0"
+ },
+ {
+   "Title": "2019 Q3",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.8"
+ },
+ {
+   "Title": "2019 Q4",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.4"
+ },
+ {
+   "Title": "2020 Q1",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.7"
+ },
+ {
+   "Title": "2020 Q2",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.8"
+ },
+ {
+   "Title": "2020 Q3",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.8"
+ },
+ {
+   "Title": "2020 Q4",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.8"
+ },
+ {
+   "Title": "2021 Q1",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.9"
+ },
+ {
+   "Title": "2021 Q2",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.1"
+ },
+ {
+   "Title": "2021 Q3",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.7"
+ },
+ {
+   "Title": "2021 Q4",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "4.4"
+ },
+ {
+   "Title": "2022 Q1",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "5.5"
+ },
+ {
+   "Title": "2022 Q2",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "7.9"
+ },
+ {
+   "Title": "2022 Q3",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "8.7"
+ },
+ {
+   "Title": "2022 Q4",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "9.4"
+ },
+ {
+   "Title": "2023 Q1",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "9.0"
+ },
+ {
+   "Title": "2023 Q2",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "7.7"
+ },
+ {
+   "Title": "1989 JAN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "5.7"
+ },
+ {
+   "Title": "1989 FEB",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "5.8"
+ },
+ {
+   "Title": "1989 MAR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "5.9"
+ },
+ {
+   "Title": "1989 APR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "5.6"
+ },
+ {
+   "Title": "1989 MAY",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "5.9"
+ },
+ {
+   "Title": "1989 JUN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "5.8"
+ },
+ {
+   "Title": "1989 JUL",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "5.7"
+ },
+ {
+   "Title": "1989 AUG",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "5.5"
+ },
+ {
+   "Title": "1989 SEP",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "5.7"
+ },
+ {
+   "Title": "1989 OCT",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "5.8"
+ },
+ {
+   "Title": "1989 NOV",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "5.7"
+ },
+ {
+   "Title": "1989 DEC",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "5.8"
+ },
+ {
+   "Title": "1990 JAN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "5.9"
+ },
+ {
+   "Title": "1990 FEB",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "6.3"
+ },
+ {
+   "Title": "1990 MAR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "6.2"
+ },
+ {
+   "Title": "1990 APR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "7.7"
+ },
+ {
+   "Title": "1990 MAY",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "8.2"
+ },
+ {
+   "Title": "1990 JUN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "8.2"
+ },
+ {
+   "Title": "1990 JUL",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "8.2"
+ },
+ {
+   "Title": "1990 AUG",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "8.9"
+ },
+ {
+   "Title": "1990 SEP",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "9.2"
+ },
+ {
+   "Title": "1990 OCT",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "9.2"
+ },
+ {
+   "Title": "1990 NOV",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "9.2"
+ },
+ {
+   "Title": "1990 DEC",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "9.2"
+ },
+ {
+   "Title": "1991 JAN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "8.6"
+ },
+ {
+   "Title": "1991 FEB",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "8.2"
+ },
+ {
+   "Title": "1991 MAR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "8.3"
+ },
+ {
+   "Title": "1991 APR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "8.0"
+ },
+ {
+   "Title": "1991 MAY",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "7.5"
+ },
+ {
+   "Title": "1991 JUN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "7.7"
+ },
+ {
+   "Title": "1991 JUL",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "7.5"
+ },
+ {
+   "Title": "1991 AUG",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "7.5"
+ },
+ {
+   "Title": "1991 SEP",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "6.9"
+ },
+ {
+   "Title": "1991 OCT",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "6.5"
+ },
+ {
+   "Title": "1991 NOV",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "6.5"
+ },
+ {
+   "Title": "1991 DEC",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "6.5"
+ },
+ {
+   "Title": "1992 JAN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "6.2"
+ },
+ {
+   "Title": "1992 FEB",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "6.3"
+ },
+ {
+   "Title": "1992 MAR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "6.2"
+ },
+ {
+   "Title": "1992 APR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "5.2"
+ },
+ {
+   "Title": "1992 MAY",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "5.1"
+ },
+ {
+   "Title": "1992 JUN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "4.6"
+ },
+ {
+   "Title": "1992 JUL",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "4.5"
+ },
+ {
+   "Title": "1992 AUG",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.7"
+ },
+ {
+   "Title": "1992 SEP",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.7"
+ },
+ {
+   "Title": "1992 OCT",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.5"
+ },
+ {
+   "Title": "1992 NOV",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.3"
+ },
+ {
+   "Title": "1992 DEC",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.2"
+ },
+ {
+   "Title": "1993 JAN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.0"
+ },
+ {
+   "Title": "1993 FEB",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.1"
+ },
+ {
+   "Title": "1993 MAR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.2"
+ },
+ {
+   "Title": "1993 APR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.6"
+ },
+ {
+   "Title": "1993 MAY",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.3"
+ },
+ {
+   "Title": "1993 JUN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.2"
+ },
+ {
+   "Title": "1993 JUL",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.3"
+ },
+ {
+   "Title": "1993 AUG",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.6"
+ },
+ {
+   "Title": "1993 SEP",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.7"
+ },
+ {
+   "Title": "1993 OCT",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.4"
+ },
+ {
+   "Title": "1993 NOV",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.1"
+ },
+ {
+   "Title": "1993 DEC",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.3"
+ },
+ {
+   "Title": "1994 JAN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.6"
+ },
+ {
+   "Title": "1994 FEB",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.4"
+ },
+ {
+   "Title": "1994 MAR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.2"
+ },
+ {
+   "Title": "1994 APR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.4"
+ },
+ {
+   "Title": "1994 MAY",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.4"
+ },
+ {
+   "Title": "1994 JUN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.3"
+ },
+ {
+   "Title": "1994 JUL",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.1"
+ },
+ {
+   "Title": "1994 AUG",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.2"
+ },
+ {
+   "Title": "1994 SEP",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.9"
+ },
+ {
+   "Title": "1994 OCT",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.8"
+ },
+ {
+   "Title": "1994 NOV",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.1"
+ },
+ {
+   "Title": "1994 DEC",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.2"
+ },
+ {
+   "Title": "1995 JAN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.4"
+ },
+ {
+   "Title": "1995 FEB",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.3"
+ },
+ {
+   "Title": "1995 MAR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.4"
+ },
+ {
+   "Title": "1995 APR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.3"
+ },
+ {
+   "Title": "1995 MAY",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.6"
+ },
+ {
+   "Title": "1995 JUN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.7"
+ },
+ {
+   "Title": "1995 JUL",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.8"
+ },
+ {
+   "Title": "1995 AUG",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.7"
+ },
+ {
+   "Title": "1995 SEP",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.0"
+ },
+ {
+   "Title": "1995 OCT",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.0"
+ },
+ {
+   "Title": "1995 NOV",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.9"
+ },
+ {
+   "Title": "1995 DEC",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.1"
+ },
+ {
+   "Title": "1996 JAN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.9"
+ },
+ {
+   "Title": "1996 FEB",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.0"
+ },
+ {
+   "Title": "1996 MAR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.0"
+ },
+ {
+   "Title": "1996 APR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.8"
+ },
+ {
+   "Title": "1996 MAY",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.8"
+ },
+ {
+   "Title": "1996 JUN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.8"
+ },
+ {
+   "Title": "1996 JUL",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.7"
+ },
+ {
+   "Title": "1996 AUG",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.7"
+ },
+ {
+   "Title": "1996 SEP",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.7"
+ },
+ {
+   "Title": "1996 OCT",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.0"
+ },
+ {
+   "Title": "1996 NOV",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.1"
+ },
+ {
+   "Title": "1996 DEC",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.8"
+ },
+ {
+   "Title": "1997 JAN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.6"
+ },
+ {
+   "Title": "1997 FEB",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.4"
+ },
+ {
+   "Title": "1997 MAR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.2"
+ },
+ {
+   "Title": "1997 APR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.1"
+ },
+ {
+   "Title": "1997 MAY",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.1"
+ },
+ {
+   "Title": "1997 JUN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.1"
+ },
+ {
+   "Title": "1997 JUL",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.4"
+ },
+ {
+   "Title": "1997 AUG",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.3"
+ },
+ {
+   "Title": "1997 SEP",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.2"
+ },
+ {
+   "Title": "1997 OCT",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.2"
+ },
+ {
+   "Title": "1997 NOV",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.1"
+ },
+ {
+   "Title": "1997 DEC",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.9"
+ },
+ {
+   "Title": "1998 JAN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.8"
+ },
+ {
+   "Title": "1998 FEB",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.8"
+ },
+ {
+   "Title": "1998 MAR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.9"
+ },
+ {
+   "Title": "1998 APR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.1"
+ },
+ {
+   "Title": "1998 MAY",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.2"
+ },
+ {
+   "Title": "1998 JUN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.9"
+ },
+ {
+   "Title": "1998 JUL",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.7"
+ },
+ {
+   "Title": "1998 AUG",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.6"
+ },
+ {
+   "Title": "1998 SEP",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.7"
+ },
+ {
+   "Title": "1998 OCT",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.6"
+ },
+ {
+   "Title": "1998 NOV",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.7"
+ },
+ {
+   "Title": "1998 DEC",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.9"
+ },
+ {
+   "Title": "1999 JAN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.0"
+ },
+ {
+   "Title": "1999 FEB",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.9"
+ },
+ {
+   "Title": "1999 MAR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.1"
+ },
+ {
+   "Title": "1999 APR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.0"
+ },
+ {
+   "Title": "1999 MAY",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.7"
+ },
+ {
+   "Title": "1999 JUN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.8"
+ },
+ {
+   "Title": "1999 JUL",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.7"
+ },
+ {
+   "Title": "1999 AUG",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.6"
+ },
+ {
+   "Title": "1999 SEP",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.6"
+ },
+ {
+   "Title": "1999 OCT",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.5"
+ },
+ {
+   "Title": "1999 NOV",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.5"
+ },
+ {
+   "Title": "1999 DEC",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.5"
+ },
+ {
+   "Title": "2000 JAN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.2"
+ },
+ {
+   "Title": "2000 FEB",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.2"
+ },
+ {
+   "Title": "2000 MAR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.0"
+ },
+ {
+   "Title": "2000 APR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.9"
+ },
+ {
+   "Title": "2000 MAY",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.0"
+ },
+ {
+   "Title": "2000 JUN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.2"
+ },
+ {
+   "Title": "2000 JUL",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.2"
+ },
+ {
+   "Title": "2000 AUG",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.0"
+ },
+ {
+   "Title": "2000 SEP",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.3"
+ },
+ {
+   "Title": "2000 OCT",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.4"
+ },
+ {
+   "Title": "2000 NOV",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.5"
+ },
+ {
+   "Title": "2000 DEC",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.2"
+ },
+ {
+   "Title": "2001 JAN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.2"
+ },
+ {
+   "Title": "2001 FEB",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.2"
+ },
+ {
+   "Title": "2001 MAR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.3"
+ },
+ {
+   "Title": "2001 APR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.5"
+ },
+ {
+   "Title": "2001 MAY",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.9"
+ },
+ {
+   "Title": "2001 JUN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.9"
+ },
+ {
+   "Title": "2001 JUL",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.7"
+ },
+ {
+   "Title": "2001 AUG",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.1"
+ },
+ {
+   "Title": "2001 SEP",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.7"
+ },
+ {
+   "Title": "2001 OCT",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.6"
+ },
+ {
+   "Title": "2001 NOV",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.2"
+ },
+ {
+   "Title": "2001 DEC",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.4"
+ },
+ {
+   "Title": "2002 JAN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.8"
+ },
+ {
+   "Title": "2002 FEB",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.7"
+ },
+ {
+   "Title": "2002 MAR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.7"
+ },
+ {
+   "Title": "2002 APR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.6"
+ },
+ {
+   "Title": "2002 MAY",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.2"
+ },
+ {
+   "Title": "2002 JUN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.1"
+ },
+ {
+   "Title": "2002 JUL",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.4"
+ },
+ {
+   "Title": "2002 AUG",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.3"
+ },
+ {
+   "Title": "2002 SEP",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.2"
+ },
+ {
+   "Title": "2002 OCT",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.5"
+ },
+ {
+   "Title": "2002 NOV",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.6"
+ },
+ {
+   "Title": "2002 DEC",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.7"
+ },
+ {
+   "Title": "2003 JAN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.4"
+ },
+ {
+   "Title": "2003 FEB",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.6"
+ },
+ {
+   "Title": "2003 MAR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.6"
+ },
+ {
+   "Title": "2003 APR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.5"
+ },
+ {
+   "Title": "2003 MAY",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.3"
+ },
+ {
+   "Title": "2003 JUN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.2"
+ },
+ {
+   "Title": "2003 JUL",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.3"
+ },
+ {
+   "Title": "2003 AUG",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.4"
+ },
+ {
+   "Title": "2003 SEP",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.3"
+ },
+ {
+   "Title": "2003 OCT",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.3"
+ },
+ {
+   "Title": "2003 NOV",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.3"
+ },
+ {
+   "Title": "2003 DEC",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.3"
+ },
+ {
+   "Title": "2004 JAN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.5"
+ },
+ {
+   "Title": "2004 FEB",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.4"
+ },
+ {
+   "Title": "2004 MAR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.2"
+ },
+ {
+   "Title": "2004 APR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.1"
+ },
+ {
+   "Title": "2004 MAY",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.4"
+ },
+ {
+   "Title": "2004 JUN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.5"
+ },
+ {
+   "Title": "2004 JUL",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.4"
+ },
+ {
+   "Title": "2004 AUG",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.4"
+ },
+ {
+   "Title": "2004 SEP",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.2"
+ },
+ {
+   "Title": "2004 OCT",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.3"
+ },
+ {
+   "Title": "2004 NOV",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.5"
+ },
+ {
+   "Title": "2004 DEC",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.8"
+ },
+ {
+   "Title": "2005 JAN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.7"
+ },
+ {
+   "Title": "2005 FEB",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.7"
+ },
+ {
+   "Title": "2005 MAR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.0"
+ },
+ {
+   "Title": "2005 APR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.9"
+ },
+ {
+   "Title": "2005 MAY",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.9"
+ },
+ {
+   "Title": "2005 JUN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.0"
+ },
+ {
+   "Title": "2005 JUL",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.3"
+ },
+ {
+   "Title": "2005 AUG",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.4"
+ },
+ {
+   "Title": "2005 SEP",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.5"
+ },
+ {
+   "Title": "2005 OCT",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.4"
+ },
+ {
+   "Title": "2005 NOV",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.2"
+ },
+ {
+   "Title": "2005 DEC",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.1"
+ },
+ {
+   "Title": "2006 JAN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.2"
+ },
+ {
+   "Title": "2006 FEB",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.2"
+ },
+ {
+   "Title": "2006 MAR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.0"
+ },
+ {
+   "Title": "2006 APR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.2"
+ },
+ {
+   "Title": "2006 MAY",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.4"
+ },
+ {
+   "Title": "2006 JUN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.6"
+ },
+ {
+   "Title": "2006 JUL",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.5"
+ },
+ {
+   "Title": "2006 AUG",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.6"
+ },
+ {
+   "Title": "2006 SEP",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.5"
+ },
+ {
+   "Title": "2006 OCT",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.5"
+ },
+ {
+   "Title": "2006 NOV",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.8"
+ },
+ {
+   "Title": "2006 DEC",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.9"
+ },
+ {
+   "Title": "2007 JAN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.7"
+ },
+ {
+   "Title": "2007 FEB",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.7"
+ },
+ {
+   "Title": "2007 MAR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.9"
+ },
+ {
+   "Title": "2007 APR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.7"
+ },
+ {
+   "Title": "2007 MAY",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.5"
+ },
+ {
+   "Title": "2007 JUN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.5"
+ },
+ {
+   "Title": "2007 JUL",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.0"
+ },
+ {
+   "Title": "2007 AUG",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.0"
+ },
+ {
+   "Title": "2007 SEP",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.0"
+ },
+ {
+   "Title": "2007 OCT",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.3"
+ },
+ {
+   "Title": "2007 NOV",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.2"
+ },
+ {
+   "Title": "2007 DEC",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.3"
+ },
+ {
+   "Title": "2008 JAN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.4"
+ },
+ {
+   "Title": "2008 FEB",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.6"
+ },
+ {
+   "Title": "2008 MAR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.6"
+ },
+ {
+   "Title": "2008 APR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.0"
+ },
+ {
+   "Title": "2008 MAY",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.3"
+ },
+ {
+   "Title": "2008 JUN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.7"
+ },
+ {
+   "Title": "2008 JUL",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "4.2"
+ },
+ {
+   "Title": "2008 AUG",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "4.4"
+ },
+ {
+   "Title": "2008 SEP",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "4.8"
+ },
+ {
+   "Title": "2008 OCT",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "4.2"
+ },
+ {
+   "Title": "2008 NOV",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.8"
+ },
+ {
+   "Title": "2008 DEC",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.0"
+ },
+ {
+   "Title": "2009 JAN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.9"
+ },
+ {
+   "Title": "2009 FEB",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.1"
+ },
+ {
+   "Title": "2009 MAR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.8"
+ },
+ {
+   "Title": "2009 APR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.3"
+ },
+ {
+   "Title": "2009 MAY",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.1"
+ },
+ {
+   "Title": "2009 JUN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.7"
+ },
+ {
+   "Title": "2009 JUL",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.6"
+ },
+ {
+   "Title": "2009 AUG",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.4"
+ },
+ {
+   "Title": "2009 SEP",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.0"
+ },
+ {
+   "Title": "2009 OCT",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.2"
+ },
+ {
+   "Title": "2009 NOV",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.5"
+ },
+ {
+   "Title": "2009 DEC",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.1"
+ },
+ {
+   "Title": "2010 JAN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.6"
+ },
+ {
+   "Title": "2010 FEB",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.1"
+ },
+ {
+   "Title": "2010 MAR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.4"
+ },
+ {
+   "Title": "2010 APR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.7"
+ },
+ {
+   "Title": "2010 MAY",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.5"
+ },
+ {
+   "Title": "2010 JUN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.4"
+ },
+ {
+   "Title": "2010 JUL",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.3"
+ },
+ {
+   "Title": "2010 AUG",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.4"
+ },
+ {
+   "Title": "2010 SEP",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.4"
+ },
+ {
+   "Title": "2010 OCT",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.5"
+ },
+ {
+   "Title": "2010 NOV",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.6"
+ },
+ {
+   "Title": "2010 DEC",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.1"
+ },
+ {
+   "Title": "2011 JAN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.4"
+ },
+ {
+   "Title": "2011 FEB",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.7"
+ },
+ {
+   "Title": "2011 MAR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.5"
+ },
+ {
+   "Title": "2011 APR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.8"
+ },
+ {
+   "Title": "2011 MAY",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.8"
+ },
+ {
+   "Title": "2011 JUN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.6"
+ },
+ {
+   "Title": "2011 JUL",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.8"
+ },
+ {
+   "Title": "2011 AUG",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.9"
+ },
+ {
+   "Title": "2011 SEP",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "4.5"
+ },
+ {
+   "Title": "2011 OCT",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "4.3"
+ },
+ {
+   "Title": "2011 NOV",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "4.1"
+ },
+ {
+   "Title": "2011 DEC",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.7"
+ },
+ {
+   "Title": "2012 JAN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.2"
+ },
+ {
+   "Title": "2012 FEB",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.1"
+ },
+ {
+   "Title": "2012 MAR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.1"
+ },
+ {
+   "Title": "2012 APR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.8"
+ },
+ {
+   "Title": "2012 MAY",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.5"
+ },
+ {
+   "Title": "2012 JUN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.3"
+ },
+ {
+   "Title": "2012 JUL",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.4"
+ },
+ {
+   "Title": "2012 AUG",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.3"
+ },
+ {
+   "Title": "2012 SEP",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.1"
+ },
+ {
+   "Title": "2012 OCT",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.4"
+ },
+ {
+   "Title": "2012 NOV",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.4"
+ },
+ {
+   "Title": "2012 DEC",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.4"
+ },
+ {
+   "Title": "2013 JAN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.4"
+ },
+ {
+   "Title": "2013 FEB",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.5"
+ },
+ {
+   "Title": "2013 MAR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.5"
+ },
+ {
+   "Title": "2013 APR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.2"
+ },
+ {
+   "Title": "2013 MAY",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.4"
+ },
+ {
+   "Title": "2013 JUN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.6"
+ },
+ {
+   "Title": "2013 JUL",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.5"
+ },
+ {
+   "Title": "2013 AUG",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.4"
+ },
+ {
+   "Title": "2013 SEP",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.4"
+ },
+ {
+   "Title": "2013 OCT",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.0"
+ },
+ {
+   "Title": "2013 NOV",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.9"
+ },
+ {
+   "Title": "2013 DEC",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.9"
+ },
+ {
+   "Title": "2014 JAN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.8"
+ },
+ {
+   "Title": "2014 FEB",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.6"
+ },
+ {
+   "Title": "2014 MAR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.5"
+ },
+ {
+   "Title": "2014 APR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.7"
+ },
+ {
+   "Title": "2014 MAY",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.5"
+ },
+ {
+   "Title": "2014 JUN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.8"
+ },
+ {
+   "Title": "2014 JUL",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.6"
+ },
+ {
+   "Title": "2014 AUG",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.5"
+ },
+ {
+   "Title": "2014 SEP",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.3"
+ },
+ {
+   "Title": "2014 OCT",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.3"
+ },
+ {
+   "Title": "2014 NOV",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.1"
+ },
+ {
+   "Title": "2014 DEC",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.7"
+ },
+ {
+   "Title": "2015 JAN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.5"
+ },
+ {
+   "Title": "2015 FEB",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.4"
+ },
+ {
+   "Title": "2015 MAR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.3"
+ },
+ {
+   "Title": "2015 APR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.3"
+ },
+ {
+   "Title": "2015 MAY",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.4"
+ },
+ {
+   "Title": "2015 JUN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.3"
+ },
+ {
+   "Title": "2015 JUL",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.5"
+ },
+ {
+   "Title": "2015 AUG",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.4"
+ },
+ {
+   "Title": "2015 SEP",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.2"
+ },
+ {
+   "Title": "2015 OCT",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.2"
+ },
+ {
+   "Title": "2015 NOV",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.4"
+ },
+ {
+   "Title": "2015 DEC",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.5"
+ },
+ {
+   "Title": "2016 JAN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.6"
+ },
+ {
+   "Title": "2016 FEB",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.6"
+ },
+ {
+   "Title": "2016 MAR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.8"
+ },
+ {
+   "Title": "2016 APR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.7"
+ },
+ {
+   "Title": "2016 MAY",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.7"
+ },
+ {
+   "Title": "2016 JUN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.8"
+ },
+ {
+   "Title": "2016 JUL",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.9"
+ },
+ {
+   "Title": "2016 AUG",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.0"
+ },
+ {
+   "Title": "2016 SEP",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.3"
+ },
+ {
+   "Title": "2016 OCT",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.3"
+ },
+ {
+   "Title": "2016 NOV",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.5"
+ },
+ {
+   "Title": "2016 DEC",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.8"
+ },
+ {
+   "Title": "2017 JAN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.9"
+ },
+ {
+   "Title": "2017 FEB",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.3"
+ },
+ {
+   "Title": "2017 MAR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.3"
+ },
+ {
+   "Title": "2017 APR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.6"
+ },
+ {
+   "Title": "2017 MAY",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.7"
+ },
+ {
+   "Title": "2017 JUN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.6"
+ },
+ {
+   "Title": "2017 JUL",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.6"
+ },
+ {
+   "Title": "2017 AUG",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.7"
+ },
+ {
+   "Title": "2017 SEP",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.8"
+ },
+ {
+   "Title": "2017 OCT",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.8"
+ },
+ {
+   "Title": "2017 NOV",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.8"
+ },
+ {
+   "Title": "2017 DEC",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.7"
+ },
+ {
+   "Title": "2018 JAN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.7"
+ },
+ {
+   "Title": "2018 FEB",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.5"
+ },
+ {
+   "Title": "2018 MAR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.3"
+ },
+ {
+   "Title": "2018 APR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.2"
+ },
+ {
+   "Title": "2018 MAY",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.3"
+ },
+ {
+   "Title": "2018 JUN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.3"
+ },
+ {
+   "Title": "2018 JUL",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.3"
+ },
+ {
+   "Title": "2018 AUG",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.4"
+ },
+ {
+   "Title": "2018 SEP",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.2"
+ },
+ {
+   "Title": "2018 OCT",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.2"
+ },
+ {
+   "Title": "2018 NOV",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.2"
+ },
+ {
+   "Title": "2018 DEC",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.0"
+ },
+ {
+   "Title": "2019 JAN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.8"
+ },
+ {
+   "Title": "2019 FEB",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.8"
+ },
+ {
+   "Title": "2019 MAR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.8"
+ },
+ {
+   "Title": "2019 APR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.0"
+ },
+ {
+   "Title": "2019 MAY",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.9"
+ },
+ {
+   "Title": "2019 JUN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.9"
+ },
+ {
+   "Title": "2019 JUL",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.0"
+ },
+ {
+   "Title": "2019 AUG",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.7"
+ },
+ {
+   "Title": "2019 SEP",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.7"
+ },
+ {
+   "Title": "2019 OCT",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.5"
+ },
+ {
+   "Title": "2019 NOV",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.5"
+ },
+ {
+   "Title": "2019 DEC",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.4"
+ },
+ {
+   "Title": "2020 JAN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.8"
+ },
+ {
+   "Title": "2020 FEB",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.7"
+ },
+ {
+   "Title": "2020 MAR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.5"
+ },
+ {
+   "Title": "2020 APR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.9"
+ },
+ {
+   "Title": "2020 MAY",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.7"
+ },
+ {
+   "Title": "2020 JUN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.8"
+ },
+ {
+   "Title": "2020 JUL",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.1"
+ },
+ {
+   "Title": "2020 AUG",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.5"
+ },
+ {
+   "Title": "2020 SEP",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.7"
+ },
+ {
+   "Title": "2020 OCT",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.9"
+ },
+ {
+   "Title": "2020 NOV",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.6"
+ },
+ {
+   "Title": "2020 DEC",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.8"
+ },
+ {
+   "Title": "2021 JAN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.9"
+ },
+ {
+   "Title": "2021 FEB",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "0.7"
+ },
+ {
+   "Title": "2021 MAR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.0"
+ },
+ {
+   "Title": "2021 APR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "1.6"
+ },
+ {
+   "Title": "2021 MAY",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.1"
+ },
+ {
+   "Title": "2021 JUN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.4"
+ },
+ {
+   "Title": "2021 JUL",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.1"
+ },
+ {
+   "Title": "2021 AUG",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.0"
+ },
+ {
+   "Title": "2021 SEP",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "2.9"
+ },
+ {
+   "Title": "2021 OCT",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "3.8"
+ },
+ {
+   "Title": "2021 NOV",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "4.6"
+ },
+ {
+   "Title": "2021 DEC",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "4.8"
+ },
+ {
+   "Title": "2022 JAN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "4.9"
+ },
+ {
+   "Title": "2022 FEB",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "5.5"
+ },
+ {
+   "Title": "2022 MAR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "6.2"
+ },
+ {
+   "Title": "2022 APR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "7.8"
+ },
+ {
+   "Title": "2022 MAY",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "7.9"
+ },
+ {
+   "Title": "2022 JUN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "8.2"
+ },
+ {
+   "Title": "2022 JUL",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "8.8"
+ },
+ {
+   "Title": "2022 AUG",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "8.6"
+ },
+ {
+   "Title": "2022 SEP",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "8.8"
+ },
+ {
+   "Title": "2022 OCT",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "9.6"
+ },
+ {
+   "Title": "2022 NOV",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "9.3"
+ },
+ {
+   "Title": "2022 DEC",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "9.2"
+ },
+ {
+   "Title": "2023 JAN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "8.8"
+ },
+ {
+   "Title": "2023 FEB",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "9.2"
+ },
+ {
+   "Title": "2023 MAR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "8.9"
+ },
+ {
+   "Title": "2023 APR",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "7.8"
+ },
+ {
+   "Title": "2023 MAY",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "7.9"
+ },
+ {
+   "Title": "2023 JUN",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "7.3"
+ },
+ {
+   "Title": "2023 JUL",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "6.4"
+ },
+ {
+   "Title": "2023 AUG",
+   "CPIH ANNUAL RATE 00: ALL ITEMS 2015=100": "6.3"
+ }
+]
