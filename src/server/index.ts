@@ -1,8 +1,8 @@
 import dotenv from 'dotenv';
+import OpenAI from 'openai';
 import nodeServer from './server';
 import ServerConfigurationProvider from './configuration/ServerConfigurationProvider';
 import OpenAiApi from './api/OpenAiApi';
-import OpenAI from 'openai';
 
 // create/get configuration
 dotenv.config(); // TODO: only needed for running locally
