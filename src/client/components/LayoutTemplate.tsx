@@ -1,6 +1,5 @@
 import { Footer, Header, NotProductionWarning } from 'blaise-design-system-react-components';
 import React from 'react';
-import { useNavigate } from 'react-router-dom';
 
 const divStyle = {
   minHeight: 'calc(67vh)',
@@ -8,18 +7,14 @@ const divStyle = {
 
 interface LayoutTemplateProps {
   children: React.ReactNode;
-  showSignOutButton: boolean;
-  signOut: () => void;
 }
 
-export default function LayoutTemplate({ children, showSignOutButton, signOut }: LayoutTemplateProps) {
-  const navigate = useNavigate();
-
+export default function LayoutTemplate({ children }: LayoutTemplateProps) {
   const navigationLinks = [
     {
       endpoint: '/',
-      id: 'surveys',
-      label: 'Surveys',
+      id: 'home',
+      label: 'home',
     },
   ];
 
@@ -28,10 +23,9 @@ export default function LayoutTemplate({ children, showSignOutButton, signOut }:
     <>
       <NotProductionWarning />
       <Header
-        title="Blaise Editing Service"
+        title="Household budget predictor"
         noSave
-        signOutButton={showSignOutButton}
-        signOutFunction={() => { signOut(); navigate('/'); }}
+        signOutButton={false}
         navigationLinks={navigationLinks}
       />
       <div style={divStyle} className="ons-page__container ons-container" data-testid="app-content">

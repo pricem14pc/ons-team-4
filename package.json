@@ -12,10 +12,10 @@
     "test": "jest --coverage --watchAll=false",
     "lint": "yarn eslint .",
     "build-server": "tsc --project tsconfig.server.json",
-    "run-server": "node ./dist/server/index.js",
+    "run-server": "node ./dist/index.js",
     "start-server": "yarn clean && yarn build-react && yarn build-server && yarn run-server",
     "build-server-watch": "yarn build-server -w",
-    "run-server-watch": "nodemon ./dist/server/index.js",
+    "run-server-watch": "nodemon ./dist/index.js",
     "start-server-watch": "concurrently npm:build-server-watch npm:run-server-watch",
     "dev": "concurrently npm:start-react npm:start-server-watch"
   },
