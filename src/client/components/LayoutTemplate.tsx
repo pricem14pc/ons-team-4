@@ -13,8 +13,13 @@ export default function LayoutTemplate({ children }: LayoutTemplateProps) {
   const navigationLinks = [
     {
       endpoint: '/',
-      id: 'home',
-      label: 'home',
+      id: 'Houehold',
+      label: 'Houehold income',
+    },
+    {
+      endpoint: '/demographic',
+      id: 'demographic',
+      label: 'demographic income',
     },
   ];
 

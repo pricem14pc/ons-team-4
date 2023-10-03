@@ -8,18 +8,31 @@ export default class DataController implements Controller {
 
   constructor(openAiApi: OpenAiApi) {
     this.openAiApi = openAiApi;
-    this.getData = this.getData.bind(this);
-    console.debug('openAiApi', this.openAiApi.getResponse());
+    this.getHouseholdData = this.getHouseholdData.bind(this);
+    this.getDemographicData = this.getDemographicData.bind(this);
   }
 
   getRoutes() {
     const router = express.Router();
-    return router.get('/api/data', this.getData);
+    return router.get('/api/data/household', this.getHouseholdData);
+    return router.get('/api/data/demographic', this.getDemographicData);
   }
 
-  async getData(_request: Request, response: Response<string>) {
+  async getHouseholdData(_request: Request, response: Response<string>) {
     try {
-      const test = await this.openAiApi.getResponse();
+      const test = await this.openAiApi.getHouseholdResponse();
+      return response.status(200).json(test);
+    } catch (error: unknown) {
+      if (notFound(error)) {
+        return response.status(404).json();
+      }
+      return response.status(500).json();
+    }
+  }
+
+  async getDemographicData(_request: Request, response: Response<string>) {
+    try {
+      const test = await this.openAiApi.getHouseholdDemographicResponse();
       return response.status(200).json(test);
     } catch (error: unknown) {
       if (notFound(error)) {

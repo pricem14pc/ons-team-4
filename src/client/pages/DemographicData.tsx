@@ -1,13 +1,13 @@
 import { ONSPanel } from 'blaise-design-system-react-components';
 import AsyncContent from '../components/AsyncContent';
 import { useAsyncRequest } from '../hooks/useAsyncRequest';
-import getData from '../api/NodeApi';
+import { getDemographicData } from '../api/NodeApi';
 
-export default function Data() {
-  const infoPanelMessage = 'Bonjour tout le monde';
+export default function DemographicData() {
+  const infoPanelMessage = 'OPEN AI, If inflation rates rise will household expenditure increase or descrease for under 25 year olds?';
 
   // TODO: maybe filter surveys returned here - pass user details to node and bring back full list or filtered
-  const surveys = useAsyncRequest<string>(getData);
+  const demographicData = useAsyncRequest<string>(getDemographicData);
 
   return (
     <>
@@ -15,7 +15,7 @@ export default function Data() {
         {infoPanelMessage}
       </ONSPanel>
       <div data-testid="Surveys">
-        <AsyncContent content={surveys}>
+        <AsyncContent content={demographicData}>
           {(data:string) => <div>{data}</div> }
         </AsyncContent>
       </div>
