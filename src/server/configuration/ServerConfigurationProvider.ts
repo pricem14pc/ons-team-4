@@ -6,7 +6,9 @@ import {
 
 export default class ServerConfigurationProvider implements ServerConfiguration {
   BuildFolder: string;
+
   openAiKey: string;
+
   Port: number;
 
   constructor() {
@@ -16,7 +18,7 @@ export default class ServerConfigurationProvider implements ServerConfiguration 
     } = process.env;
 
     this.BuildFolder = '../build';
-    this.openAiKey = getStringOrThrowError(OPENAI_API_KEY, 'OPENAI_API_KEY')
+    this.openAiKey = getStringOrThrowError(OPENAI_API_KEY, 'OPENAI_API_KEY');
     this.Port = getNumberOrThrowError(PORT, 'PORT');
   }
 }

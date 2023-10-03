@@ -3,8 +3,9 @@ import ejs from 'ejs';
 import path from 'path';
 import DataController from './controllers/dataController';
 import ConfigurationProvider from './configuration/ServerConfigurationProvider';
+import OpenAiApi from './api/OpenAiApi';
 
-export default function nodeServer(config: ConfigurationProvider): Express {
+export default function nodeServer(config: ConfigurationProvider, openAiApi: OpenAiApi): Express {
   const server = express();
 
   // treat the index.html as a template and substitute the values at runtime
@@ -12,9 +13,9 @@ export default function nodeServer(config: ConfigurationProvider): Express {
   server.engine('html', ejs.renderFile);
   server.use('/static', express.static(path.join(__dirname, `${config.BuildFolder}/static`)));
 
-  // survey routing
-  const surveyController = new DataController();
-  server.use('/', surveyController.getRoutes());
+  // data routing
+  const dataController = new DataController(openAiApi);
+  server.use('/', dataController.getRoutes());
 
   // catch all other routes renders react pages
   server.get('*', (_request: Request, response: Response) => {
