@@ -1,4 +1,4 @@
-| file                                                                                                   | Source location                                                              |
-|--------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| [House_hold Income Median.csv](./House_hold Income Median.csv)                                         |  |
-| [consumer_price_inflation_time_series_3009232.csv](./consumer_price_inflation_time_series_3009232.csv) | https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/l55o/mm23 |
+| file                                                                                    | Source location                                                                                                                                                           |
+| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [median_household_income_series.csv](median_household_income_time_series_year_2021.csv) | https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/householddisposableincomeandinequality/financialyearending2021 |
+| [series-300923.csv](./series-300923.csv)                                                | https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/l55o/mm23                                                                                              |
